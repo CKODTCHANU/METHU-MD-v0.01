@@ -48,7 +48,7 @@
 
 DEPLOY ON PANEL ( BOT HOSTING )  💙
  
-<a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
+<a href='https://navocloud.com/' target="_blank"><img alt='Panel Link'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
 
