@@ -55,6 +55,12 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+| BUGS MENU | GROUP MENU | DOWNLOAD MENU | TOOLS MENU | OTHER MENU |
+| --------| ----------- | --------- | ----------- | -------- | 
+| ✅      |  ✅         |    ✅     |     ✅      |     ✅   |
+
+
+--------
 
 THE BOT IS UNDER THE DEVELOPMENT SOMETIMES YOU CAN SEE SOME ERRORS  🌟
 
