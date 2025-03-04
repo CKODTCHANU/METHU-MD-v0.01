@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/CKODTCHANU/METHU-MD-v0.01
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Vb7zZ9uCHDyqYLV4QM1N";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Vb7zZ9uCHDyqYLV4QM1N" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.ibb.co/SXvNd406/Picsart-25-02-28-13-46-38-821.jpg" || "https://i.ibb.co/SXvNd406/Picsart-25-02-28-13-46-38-821.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "©ᴘᴏᴡᴇʀᴅ ʙʏ ᴍᴇᴛʜᴜ-ᴍᴅ" 
+global.caption = process.env.CAPTION || global.caption || "©ᴘᴏᴡᴇʀᴅ ʙʏ ᴍᴇᴛʜᴜ ᴍᴅ" 
 
 
 global.devs = "" // Developer Contact
